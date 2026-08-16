@@ -28,7 +28,7 @@ physically simulated cat. The cat reacts. Everyone is happy.
 Three.js scene, lighting, shadows, orbit camera, Rapier world with ground,
 fixed-timestep loop, falling test cube proving the pipeline.
 
-### 2. The cat (ragdoll)
+### 2. The cat (ragdoll) ✅
 - Rigid bodies: torso (2 segments), head, 4 legs (2 segments each), tail
   (3+ segments). Capsule colliders, placeholder materials.
 - Spherical/revolute joints with limits; light joint damping so it flops
